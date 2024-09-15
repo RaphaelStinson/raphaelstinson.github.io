@@ -5,13 +5,13 @@ order: 4
 ---
 
 > My name: Rafael Custódio
-  -
+  
   
 > My age: 28 years old
-  -
+  
   
 > I live in: Nova Era, Minas Gerais, Brazil
-  -
+  
  
 > Languages that I speak (in order of skill):
   - Brazilian Portuguese
